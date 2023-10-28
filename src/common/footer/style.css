@@ -1,0 +1,10 @@
+.foot {
+    text-align: center;
+    background-color: #1C4E80;
+    padding: 1rem;
+    color: white;
+    position: relative;
+    left: 0;
+    bottom: -300px;
+    width: 100%;
+}
